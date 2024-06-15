@@ -10,11 +10,11 @@ nyzss@github
 -------------------------
 OS: Arch Linux x86_64
 Shell: zsh 5.8
-GPU: NVIDIA GeForce RTX 4060
-Location: Paris, FR
 WM: Hyprland
+GPU: NVIDIA GeForce RTX 4060
 Languages: C, TypeScript, Rust
 Currently: student@42
+Location: Paris, FR
 Discord: nyzs
 ```
 <p align="left">
