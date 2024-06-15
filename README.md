@@ -13,8 +13,7 @@ Shell: zsh 5.8
 GPU: NVIDIA GeForce RTX 4060
 Location: Paris, FR
 WM: Hyprland
-Languages: C, TypeScript,
-           Rust
+Languages: C, TypeScript, Rust
 Currently: student@42
 Discord: nyzs
 ```
