@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://github.com/nyzss/nyzss/assets/81782738/8c6c6423-83b4-4eb5-81e4-14cc7ac773c9" alt="bruh" width="280" />
+<img align="left" src="https://github.com/nyzss/nyzss/assets/81782738/8c6c6423-83b4-4eb5-81e4-14cc7ac773c9" alt="bruh" width="240" />
 <!-- ![cropped_wall](https://github.com/nyzss/nyzss/assets/81782738/8c6c6423-83b4-4eb5-81e4-14cc7ac773c9) -->
 
 ```csharp
