@@ -14,7 +14,7 @@ OS: Arch Linux x86_64
 Shell: zsh 5.8
 WM: Hyprland
 GPU: NVIDIA GeForce RTX 4060
-Languages: C, TypeScript, Rust
+Languages: TypeScript, C/C++, Python, Rust
 Currently: student@42
 Location: Paris, FR
 Discord: nyzs
