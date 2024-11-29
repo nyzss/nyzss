@@ -1,4 +1,4 @@
-#### I'm currently looking for an internship. Contact me via [email](mailto:oknakoca@gmail.com) or [LinkedIn](https://www.linkedin.com/in/okankoca/)!
+<!-- #### I'm currently looking for an internship. Contact me via [email](mailto:oknakoca@gmail.com) or [LinkedIn](https://www.linkedin.com/in/okankoca/)! -->
 
 ```zsh
 > neofetch
