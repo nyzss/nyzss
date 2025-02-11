@@ -10,10 +10,9 @@
 ```csharp
 nyzss@github
 -------------------------
-OS: Arch Linux x86_64
+OS: macOS Sequoia 15.3 arm64
 Shell: zsh 5.8
-WM: Hyprland
-GPU: NVIDIA GeForce RTX 4060
+WM: h̶y̶p̶r̶l̶a̶n̶d̶ none
 Languages: TypeScript, C/C++, Python, Rust
 Currently: student@42
 Location: Paris, FR
